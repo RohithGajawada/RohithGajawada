@@ -2,7 +2,7 @@
 
 <img width="1834" alt="Make your README" src="https://github.com/RohithGajawada/RohithGajawada/assets/101863293/88c3f3d4-a18c-4541-b60b-9e613c97354e">
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
+
 
 - 📫 How to reach me **rohith09876543210@gmail.com**
 
