@@ -1,6 +1,6 @@
 
 
-<img width="1834" alt="Make your README" src="https://github.com/RohithGajawada/RohithGajawada/assets/101863293/88c3f3d4-a18c-4541-b60b-9e613c97354e">
+<img width="1834" alt="readme" src="https://github.com/RohithGajawada/RohithGajawada/assets/101863293/88c3f3d4-a18c-4541-b60b-9e613c97354e">
 
 
 
